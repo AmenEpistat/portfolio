@@ -1,0 +1,10 @@
+@mixin base-list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+@mixin base-link($link-color) {
+    text-decoration: none;
+    color: $link-color;
+}

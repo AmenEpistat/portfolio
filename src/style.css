@@ -1,0 +1,99 @@
+:root {
+  font-family: "Playfair Display", serif;
+  font-weight: 500;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: 'Ambidexter';
+  src: url('../src/fonts/ambidexter_regular.woff2');
+  font-display: swap;
+  font-weight: 400px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.container {
+  padding: 0 24px;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+.button {
+  border-radius: 30px;
+  padding: 10px 15px;
+  font-size: 18px;
+  color: #faded2;
+  font-family: inherit;
+  background-color: #845747;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.button:hover {
+  background-color: #b83556;
+}
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+#app {
+  margin: 0 auto;
+}
+
+.visually-hidden {
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  border: 0;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  position: absolute;
+  overflow: hidden;
+}
+
+@media (min-width: 1100px) {
+  .container {
+    padding-inline: 50px;
+  }
+
+  .button {
+    font-size: 26px;
+    padding: 10px 30px;
+    border-radius: 30px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .container {
+    padding-inline: 70px;
+  }
+}
