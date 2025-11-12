@@ -12,24 +12,24 @@
 const contactLinks = [
     {
         title: "Telegram",
-        href: "#about-me",
+        href: "https://t.me/pppr_mint",
         class: 'contacts__link--tg',
     },
     {
         title: "Vcontacte",
-        href: "#about-me",
+        href: "https://vk.com/pppr.mint",
         class: 'contacts__link--vk',
     },
     {
-        title: "Youtube",
-        href: "#about-me",
-        class: 'contacts__link--youtube',
-    },
-    {
         title: "Github",
-        href: "#about-me",
+        href: "https://github.com/AmenEpistat",
         class: 'contacts__link--github',
-    }
+    },
+  {
+    title: "Youtube",
+    href: "#about-me",
+    class: 'contacts__link--youtube',
+  },
 ]
 </script>
 
