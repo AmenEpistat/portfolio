@@ -5,7 +5,7 @@
         </h2>
         <div class="about-me__wrapper">
             <div class="about-me__img-wrapper">
-                <img class="about-me__img" alt="Луиза Хакиева." width="200" height="250" src="/src/images/luiza.jpg">
+                <img class="about-me__img" alt="Луиза Хакиева." width="200" height="250" src="/images/luiza.jpg">
             </div>
             <p class="about-me__text"></p>
             <a class="about-me__link" href=#></a>

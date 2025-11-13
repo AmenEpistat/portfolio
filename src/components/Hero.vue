@@ -8,9 +8,9 @@
             <a class="hero__button button" href="#project">Посмотреть кейсы</a>
         </div>
         <a class="hero__link" href="#">
-            <img class="hero__img" src="/src/images/cakes.png" width="180" height="120"
+            <img class="hero__img" src="/images/cakes.png" width="180" height="120"
                 alt="Розовый сайт с тортами большой.">
-            <img class="hero__img-mobile" src="/src/images/cakes-mobile.png" width="80" height="80"
+            <img class="hero__img-mobile" src="/images/cakes-mobile.png" width="80" height="80"
                 alt="Розовый сайт с тортами.">
         </a>
     </section>
