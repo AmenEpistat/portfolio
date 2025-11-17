@@ -5,8 +5,15 @@ It showcases my projects, skills, and experience as a front-end developer.
 The project uses **Vue 3 `<script setup>` components**, **SCSS** for styling, and **Vite** as the build tool.
 
 ---
+## 🖼️ Screenshots
+<img width="700" height="400" alt="Снимок экрана 2025-11-17 в 7 50 40 PM" src="https://github.com/user-attachments/assets/391bbd2a-34b5-4070-95f9-d88f479d20a4" />
+<img width="700" height="400" alt="Снимок экрана 2025-11-17 в 7 55 34 PM" src="https://github.com/user-attachments/assets/0fb7b8ad-68f3-4add-bfd8-56f614c9bf91" />
+<img width="700" height="400" alt="Снимок экрана 2025-11-17 в 7 54 42 PM" src="https://github.com/user-attachments/assets/568779c1-3b98-44fd-ba0c-5b5f2f8d9895" />
+
+---
 
 ## 🚀 Features
+
 
 * Display of personal projects with descriptions and links
 * Interactive UI with smooth navigation
